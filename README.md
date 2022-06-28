@@ -11,7 +11,7 @@
 |11:30 EDT / 17:30 CEST|[Networks: spike-triggered synaptic transmission, events, and artificial spiking cells](slides/5_networks.pdf)|
 |12:15 EDT / 18:15 CEST|Lunch/Dinner|
 |13:15 EDT / 19:15 CEST|[Numerical methods: accuracy, stability, speed](slides/6_methods1.pdf)|
-|13:30 EDT / 19:30 CEST|Scripting NEURON|
+|13:30 EDT / 19:30 CEST|[Scripting NEURON](slides/neuron-scripting.pdf)|
 |14:45 EDT / 20:45 CEST|Break|
 |15:00 EDT / 21:00 CEST|[Numerical methods: adaptive integration](slides/cvode-methods.pdf)|
 |15:15 EDT / 21:15 CEST|Reaction-diffusion simulations|
