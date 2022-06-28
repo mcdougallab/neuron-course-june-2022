@@ -2,7 +2,7 @@
 
 | Time | Topic |
 |------|-------|
-|9:00 EDT 15:00 CEST | Welcome |
+|9:00 EDT / 15:00 CEST | Welcome |
 |9:05 EDT / 15:05 CEST| NEURON concepts |
 |9:20 EDT / 15:20 CEST| Using NEURON's GUI to build and simulate cells |
 |10:30 EDT / 16:30 CEST|Break|
