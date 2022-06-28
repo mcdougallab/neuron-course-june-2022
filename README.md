@@ -2,9 +2,9 @@
 
 | Time | Topic |
 |------|-------|
-|9:00 EDT / 15:00 CEST | Welcome |
-|9:05 EDT / 15:05 CEST| NEURON concepts |
-|9:20 EDT / 15:20 CEST| Using NEURON's GUI to build and simulate cells |
+|9:00 EDT / 15:00 CEST |[Welcome](slides/welcome.pdf)|
+|9:05 EDT / 15:05 CEST|NEURON concepts|
+|9:20 EDT / 15:20 CEST|Using NEURON's GUI to build and simulate cells |
 |10:30 EDT / 16:30 CEST|Break|
 |10:40 EDT / 16:40 CEST|Using NMODL to add new biophysical mechanisms|
 |10:55 EDT / 16:55 CEST|Using resources from ModelDB and NeuroMorpho.Org|
@@ -13,7 +13,7 @@
 |13:15 EDT / 19:15 CEST|Numerical methods: accuracy, stability, speed|
 |13:30 EDT / 19:30 CEST|Scripting NEURON|
 |14:45 EDT / 20:45 CEST|Break|
-|15:00 EDT / 21:00 CEST|Numerical methods: adaptive integration|
+|15:00 EDT / 21:00 CEST|[Numerical methods: adaptive integration](slides/cvode-methods.pdf)|
 |15:15 EDT / 21:15 CEST|Reaction-diffusion simulations|
 |15:45 EDT / 21:45 CEST|Other resources and wrap-up|
 
