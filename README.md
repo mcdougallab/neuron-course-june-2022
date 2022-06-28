@@ -7,7 +7,7 @@
 |9:20 EDT / 15:20 CEST|[Using NEURON's GUI to build and simulate cells](slides/2_practicalintro.pdf)|
 |10:30 EDT / 16:30 CEST|Break|
 |10:40 EDT / 16:40 CEST|[Using NMODL to add new biophysical mechanisms](slides/3_nmodl.pdf)|
-|10:55 EDT / 16:55 CEST|Using resources from ModelDB and NeuroMorpho.Org|
+|10:55 EDT / 16:55 CEST|[Using resources from ModelDB and NeuroMorpho.Org](slides/modeldb-and-neuromorpho.pdf)|
 |11:30 EDT / 17:30 CEST|[Networks: spike-triggered synaptic transmission, events, and artificial spiking cells](slides/5_networks.pdf)|
 |12:15 EDT / 18:15 CEST|Lunch/Dinner|
 |13:15 EDT / 19:15 CEST|[Numerical methods: accuracy, stability, speed](slides/6_methods1.pdf)|
