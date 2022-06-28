@@ -14,7 +14,7 @@
 |13:30 EDT / 19:30 CEST|[Scripting NEURON](slides/neuron-scripting.pdf)|
 |14:45 EDT / 20:45 CEST|Break|
 |15:00 EDT / 21:00 CEST|[Numerical methods: adaptive integration](slides/cvode-methods.pdf)|
-|15:15 EDT / 21:15 CEST|Reaction-diffusion simulations|
+|15:15 EDT / 21:15 CEST|[Reaction-diffusion simulations](slides/reaction-diffusion.pdf)|
 |15:45 EDT / 21:45 CEST|[Other resources and wrap-up](slides/other-resources.pdf)|
 
 Register at: https://framaforms.org/incfocns-software-wg-cns2022-satellite-tutorials-registration-1654593600
